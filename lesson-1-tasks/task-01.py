@@ -20,7 +20,7 @@ var3 = True
 
 print(f'var1 = {var1}, var2 = {var2}, var3 = {var3}')
 
-input_var_str = input('Веедите строку: ')
-input_var_int = int(input('Веедите число: '))
+input_var_str = input('Введите строку: ')
+input_var_int = int(input('Введите число: '))
 
 print(f'input_var_str = {input_var_str}, input_var_int = {input_var_int}')
